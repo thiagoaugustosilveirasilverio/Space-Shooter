@@ -9,7 +9,7 @@ body{
     font-family: sans-serif;
     background-color: cornflowerblue;
 }
-#rain-play-area{
+#main-play-area{
     background-color: black;
     background-image: url(img/space.png);
     height: 600px;
